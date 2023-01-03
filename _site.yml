@@ -1,13 +1,20 @@
-name: "Matt Learns R"
+name: "Die HaFAIRflocke"
 navbar:
-  title: "Matt Learns R"
+  title: "Die HaFAIRflocke"
   left:
-    - text: "Home"
+  - text: "Home"
+    href: Home.html
+  - text: "der Verein"
+    menu:
+    - text: "Gründungsgeschichte"
       href: index.html
-    - text: "R Basics"
+    - text: "Ueber uns"
       href: RBasics.html
-    - text: "R functions"
-      href: RFunctions.html
-    - text: "Links"
-      href: Links.html
+    - text: "der Vorstand"
+      href: Vorstand.html
+  - text: "Neuigkeiten"
+    href: RFunctions.html
+  - text: "Mitgliedschaft"
+    href: Links.html
+  - text: "Vereinssatzung"
 output_dir: "docs"

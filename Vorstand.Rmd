@@ -1,0 +1,12 @@
+---
+title: "Vorstand"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Der Vorstand
+
+![Der Chef von allen!!](images/IMG-2666.jpg){width 230}
